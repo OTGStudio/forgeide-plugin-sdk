@@ -1,0 +1,12 @@
+{
+  "id": "com.example.hello-forge-plugin",
+  "name": "Hello ForgeIDE Plugin",
+  "version": "0.1.0",
+  "description": "Minimal example plugin demonstrating the ForgeIDE plugin SDK",
+  "author": "Your Name",
+  "license": "MIT",
+  "engines": ["all"],
+  "capabilities": [],
+  "entry_point": "plugin.wasm",
+  "min_forge_version": "1.0.0"
+}
